@@ -12,7 +12,7 @@ items:
     image:
       src: /assets/img/research/research-flowerborder.png
       alt: research-flowerborder
-    description: Participant, 01.2019.<br />Drew renderings for research report named <i>Screening and Application of Low-cost, Low-maintenance Mixed Flower Border<i>.This research report of the expert panel organized by the Shenzhen Institute of Urban Management Science.<br />
+    description: Participant, 01.2019.<br />Drew renderings for research report named <i>Screening and Application of Low-cost, Low-maintenance Mixed Flower Border<i>.This research report has been accepted by the expert panel organized by the Shenzhen Institute of Urban Management Science.<br />
 
 ---
 
