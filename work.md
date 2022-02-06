@@ -5,14 +5,14 @@ slug: /work
 items:
   - title: My Interest 1
     image:
-      src: /assets/img/work/water.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      src: /assets/img/work/work-art.png
+      alt: work-art
+    description: I love art! One of my hobbies is appreciating traditional art works and collecting beautiful pictures no matter paintings or photos. I do some painting too, and I dabble in making animation recently. I always put my works on Bilibili (https://space.bilibili.com/659367/video).
   - title: My Interest 2
     image:
-      src: /assets/img/work/sand.png
-      alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      src: /assets/img/work/work-design.png
+      alt: work-design
+    description: I enjoy planting design and planning. And I would like to make my design and planning more scientific.
 ---
 
 This is an example of a "Work" page, displaying your work, your interests, your projects.
