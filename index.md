@@ -11,7 +11,7 @@ profile_picture:
 
 <p>
  I'm a postgraduate student in Nature Management at <a href="https://www.ku.dk/english/">UCPH</a> now. 
- My undergraduate major is Landscape Architecture. After graduating from <a href="https://www.scau.edu.cn/">SCAU</a>, I worked as a landscape engineer at an institute in Shenzhen for two years. Then, I decided to make our urban ecological planning more rational. So I came to UCPH to pursue my scientific planning dream.
+ My undergraduate major is Landscape Architecture. After graduating from <a href="https://www.scau.edu.cn/">SCAU</a>, I worked as a landscape engineer at an institute in Shenzhen for two years. Then, I decided to come to UCPH to pursue my scientific planning dream.
 </p>
 <p>
 <q>
