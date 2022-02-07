@@ -14,7 +14,7 @@ profile_picture:
 </p>
 
 <p>
- My undergraduate major is Landscape Architecture. After graduating from <a href="https://www.scau.edu.cn/">SCAU</a>, I worked as a landscape engineer at an institute in Shenzhen for two years. Then, I decided to come to UCPH to pursue my scientific planning dream.
+ My undergraduate major is Landscape Architecture. After graduating from <a href="https://english.scau.edu.cn/">SCAU</a>, I worked as a landscape engineer at an institute in Shenzhen for two years. Then, I decided to come to UCPH to pursue my scientific planning dream.
 </p>
 
 <p>
