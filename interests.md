@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/interests/interests-art.png
       alt: interests-art
-    description: 2012 to present<br />I love appreciating art! I do some painting, and I dabble in making animation recently. I always put my works on <a href="https://space.bilibili.com/659367/video">Bilibili</a>.<br />
+    description: 2012 to present<br />I love appreciating art! I do some paintings, and I dabble in making animation recently. I always put my works on <a href="https://space.bilibili.com/659367/video">Bilibili</a>.<br />
   - title: Ecological Planning and Planting Design
     image:
       src: /assets/img/interests/interests-design.png
