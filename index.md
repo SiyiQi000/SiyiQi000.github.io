@@ -19,6 +19,6 @@ profile_picture:
 
 <p>
 <q>
-GIS help us more effectively improve human life while conserving our planet.
+GIS is a mass-media centred on handling and communicating geographic information. Hans said.
 </q>
 </p>
